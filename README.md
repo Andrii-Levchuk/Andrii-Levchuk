@@ -10,7 +10,6 @@ I'm frontend developer who loves React. I started with frontend but I have passi
 * 🖥️  See my portfolio at [My NextJS Portfolio](http://github.com/Andrii-Levchuk/my-next-js-portfolio) or [My Metaverse Portfolio](https://github.com/Andrii-Levchuk/metaverse-portfolio)
 * ✉️  You can contact me at [AndriykoLevchuk@gmail.com](mailto:AndriykoLevchuk@gmail.com)
 * 🧠  I'm learning Advance React JS
-* ⚡  I'm secretly Spiderman...but don't tell anyone
 
 ### Skills
 
