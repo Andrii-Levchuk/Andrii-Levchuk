@@ -7,7 +7,7 @@ Junior Frontend Developer
 I'm frontend developer who loves React. I started with frontend but I have passion to become fullstack engineer
 
 * 🌍  I'm based in Krakow, Poland
-* 🖥️  See my portfolio at [My NextJS Portfolio](https://metaverse-portfolio.vercel.app/)
+* 🖥️  See my portfolio at [https://metaverse-portfolio.vercel.app/](https://metaverse-portfolio.vercel.app/)
 * ✉️  You can contact me at [AndriykoLevchuk@gmail.com](mailto:AndriykoLevchuk@gmail.com)
 * 🧠  I'm learning Advance React JS
 
